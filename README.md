@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muttamatam-Sreeharsha-0471](https://github.com/Muttamatam-Sreeharsha-0471)
 
-- 💬 Ask me about **Data Visualization and Data Analysis**
+- 💬 Ask me about **Machine Learning and Data Analysis**
 
 - 📫 How to reach me **sreeharsha2427@gmail.com**
 
